@@ -1,0 +1,55 @@
+body {
+    background-image: url("lol.jpg");
+    background-repeat: no-repeat;
+    background-size: 800px 11
+    00px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+}
+
+
+.container{
+    background: white;
+    max-width: 80%;
+    margin:auto;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 10px solid black;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: lightcoral;
+}
+
+#save-btn {
+    background: lightcoral;
+}
+
+#save-el{
+    color: blue;
+}
